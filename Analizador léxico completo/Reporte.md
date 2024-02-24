@@ -90,4 +90,4 @@ for token in tokens_encontrados:
 ```
 Capturas:
 
-![](captura.png)
+![](captura.jpg)
