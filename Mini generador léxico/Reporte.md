@@ -1,21 +1,27 @@
-**Universidad de Guadalajara
-Centro Universitario de Ciencias e Ingenierías**
+<p align="center">
+  <h1>Tarea: Mini generador léxico</h1>
+</p>
+
+**Universidad de Guadalajara Centro Universitario de Ciencias e Ingenierías**
 
 ![](Aspose.Words.39f5f0a4-a247-4cd4-9147-707c2b4f4258.001.png)
 
 Departamento de Ciencias Computacionales
+
 SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II
 
 Profesor: Michel Emanuel López Franco
+
 Alumno: Torres Hernández David
 
 Código: 215428899	     	Carrera: INCO		Sección: D02		Fecha: 24/02/2024
 
-Tarea: Mini generador léxico
 
-**Introducción:**
+
+### **Introducción:**
 
 Genera un pequeño analizador léxico, que identifique los siguientes tokens (identificadores y números reales) construidos de la siguiente manera.
+
 identificadores = letra(letra|digito)\*
 Real = entero.entero+
 
@@ -24,7 +30,7 @@ En el siguiente link encontraras un código realizado en c++, que podrán utiliz
 
 <https://github.com/TraductoresLenguajes2/Traductores/tree/master/Modulo1/Compilador>
 
-**Desarrollo:**
+### **Desarrollo:**
 
 Codigo:
 ```python
