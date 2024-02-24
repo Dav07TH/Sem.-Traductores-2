@@ -67,7 +67,7 @@ print(tokens)
 ```
 Capturas:
 
-![](Aspose.Words.39f5f0a4-a247-4cd4-9147-707c2b4f4258.002.png)
+![](captura.png)
 
 GitHub link: <https://github.com/Dav07TH/Sem.-Traductores-2/tree/0c949d1cc4f8a2f0d94ad8c6cbe1f6a10e11d501/Mini%20generador%20l%C3%A9xico> 
 
