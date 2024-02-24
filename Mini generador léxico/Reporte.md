@@ -4,7 +4,7 @@
 
 **Universidad de Guadalajara Centro Universitario de Ciencias e Ingenierías**
 
-![](Aspose.Words.39f5f0a4-a247-4cd4-9147-707c2b4f4258.001.png)
+![](logo.png)
 
 Departamento de Ciencias Computacionales
 
