@@ -1,1 +1,0 @@
-https://github.com/OscarChavez99/Seminario-Traductores-2/tree/main/7-Ejemplo%20gram%C3%A1tica%20LR%20utilizando%20tabla%20de%20compilador
