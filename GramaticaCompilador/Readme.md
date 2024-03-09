@@ -28,8 +28,8 @@ https://github.com/TraductoresLenguajes2/Traductores/tree/master/Modulo4
 
 En esta nueva etapa para la creación de un compilador para el lenguaje C++, el programa será capaz de analizar sintácticamente una oración digitada por el usuario. <br>
 A diferencia de la etapa anterior, ésta será capaz de actuar basándose en más reglas. <br>
-- Comprobaremos su funcionamiento con el siguiente ejemplo: <br>
 
+- Comprobaremos su funcionamiento con el siguiente ejemplo: <br>
 ![image](entrada.jpg) <br>
 
 - Salida esperada: <br>
