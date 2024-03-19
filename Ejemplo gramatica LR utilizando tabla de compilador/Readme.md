@@ -31,9 +31,10 @@ Esta practica es igual a la anterior pero se utiliza como entrada "int hola;" y 
 {
     // string cadena1 = "hola + mundo";
     // string cadena1 = "a + b + c + d + e + f";
+    //string cadena1 = "int a ; int main ( ) { int b ; }";
+    string cadena1 = "int hola ;";
     //  cout<<"Cadena: ";
     //  getline(cin, cadena1);
-    string cadena1 = "int a ; int main ( ) { int b ; }";
     string cadena2 = "";
     int largo1 = cadena1.length();
     int largo2;
