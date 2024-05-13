@@ -53,9 +53,11 @@ c = suma(8.5,9.9);
 
 - Mostramos el mismo ejemplo pero en el archivo de paython analizador.py (linea 1797): <br>
   Ejemplo 1:
-![image](ejemplo1.jpg) <br>
+  
+  ![image](ejemplo1.jpg) <br>
   Ejemplo 2:
-![image](ejemplo2.jpg) <br>
+  
+  ![image](ejemplo2.jpg) <br>
 
 ## Mostramos su salida
 La salida al meter los ejemplos 1 y 2 nos damos cuenta que ambas tienen error semanticos y es por eso que nos aparece en blanco la tabla del analizador semántico:
