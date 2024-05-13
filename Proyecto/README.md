@@ -51,6 +51,7 @@ int main(){
   ![image](ensamblador2.jpg) <br>
   
 - Abrimos una distribucion WLS de Ubuntu en la terminar de abajo:
+  
   ![image](wls.jpg) <br>
   ![image](terminal1.jpg) <br>
   
